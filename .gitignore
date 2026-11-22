@@ -1,0 +1,20 @@
+# Dados pessoais: o banco de dados fica SÓ no seu computador
+financas.db
+*.db
+*.db-journal
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editor / sistema
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,5 @@
+* text=auto
+# Scripts do Windows precisam de CRLF para rodar corretamente
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.ico binary
